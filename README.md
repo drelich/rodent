@@ -12,6 +12,9 @@ The print volume is expected t be about 235x235x260 (possibly 280 on the Z axis,
 
 Screenshots from my Fusion 360 files:
 1. Z-axis rear (simple enough, I did have to keep in mind the 2020 profile offset caused by the A/B motor mounts)
+
 ![Z-axis_rear](images/Z-axis_rear.png "Z-axis rear")
+
 2. Z-axis for the sides - modeled left side but right side is easily done by just mirroring the STL files by X axis in your slicer
+
 ![Z-axis_sides](images/Z-axis_sides.png "Z-axis for the sides - modeled left side but right side is easily done by just mirroring the STL files by X axis in your slicer")
