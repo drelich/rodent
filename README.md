@@ -6,7 +6,7 @@ I decided to build a [Voron Trident](https://github.com/VoronDesign/Voron-Triden
 This printer will be my test-bed for something I am thinking of doing: a tool changer. Yay!
 
 ### Some notes
-For now, I am not anchoring the top ends of the Z-axis stepper motor's lead screws. The thinking is that the rods and stiff bed frame construction should provide enough rigidity to prevent the bed from moving along the vertical axis. Hope this will do. If not, gonna get my thinking hat on and design suitable top latches that won't obstruct the toolhead's parthways. 
+For now, I am not anchoring the top ends of the Z-axis stepper motor's lead screws. The thinking is that the rods and stiff bed frame construction should provide enough rigidity to prevent the bed from moving along the vertical axis. Hope this will do. If not, gonna get my thinking hat on and design suitable top latches that won't obstruct the toolhead's pathways. 
 
 The print volume is expected t be about 235x235x260 (possibly 280 on the Z axis, not sure how it plays out yet), using the heated bed from my old Ender 3, 300 mm smooth rods (10 mm diameter), LM10UU bearings. For the Y axis, I am using old MGN12 linear rails @ 300mm length. The extra travel will be used for tool head swaps and nozzle cleaning. The X axis is handled by an old MGN12 linear rail, that's about 270 mm long.
 
@@ -15,6 +15,6 @@ Screenshots from my Fusion 360 files:
 
 ![Z-axis_rear](images/Z-axis_rear.png "Z-axis rear")
 
-2. Z-axis for the sides - modeled left side but right side is easily done by just mirroring the STL files by X axis in your slicer
+2. Z-axis for the sides - modelled left side but right side is easily done by just mirroring the STL files by X axis in your slicer
 
-![Z-axis_sides](images/Z-axis_sides.png "Z-axis for the sides - modeled left side but right side is easily done by just mirroring the STL files by X axis in your slicer")
+![Z-axis_sides](images/Z-axis_sides.png "Z-axis for the sides - modelled left side but right side is easily done by just mirroring the STL files by X axis in your slicer")
