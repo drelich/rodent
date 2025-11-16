@@ -8,7 +8,7 @@ This printer will be my test-bed for something I am thinking of doing: a tool ch
 ### Some notes
 For now, I am not anchoring the top ends of the Z-axis stepper motor's lead screws. The thinking is that the rods and stiff bed frame construction should provide enough rigidity to prevent the bed from moving along the vertical axis. Hope this will do. If not, gonna get my thinking hat on and design suitable top latches that won't obstruct the toolhead's pathways. 
 
-The print volume is expected t be about 235x235x260 (possibly 280 on the Z axis, not sure how it plays out yet), using the heated bed from my old Ender 3, 300 mm smooth rods (10 mm diameter), LM10UU bearings. For the Y axis, I am using old MGN12 linear rails @ 300mm length. The extra travel will be used for tool head swaps and nozzle cleaning. The X axis is handled by an old MGN12 linear rail, that's about 270 mm long.
+The print volume is expected to be about 235x235x260 (possibly 280 on the Z axis, not sure how it plays out yet), using the heated bed from my old Ender 3, 300 mm smooth rods (10 mm diameter), LM10UU bearings. For the Y axis, I am using old MGN12 linear rails @ 300mm length. The extra travel will be used for tool head swaps and nozzle cleaning. The X axis is handled by an old MGN12 linear rail, that's about 270 mm long.
 
 Screenshots from my Fusion 360 files:
 1. Z-axis rear (simple enough, I did have to keep in mind the 2020 profile offset caused by the A/B motor mounts)
