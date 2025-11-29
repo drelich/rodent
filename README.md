@@ -38,3 +38,7 @@ Detailed views of the front Z axis assembly:
 ![Z-axis_sides-detail_1](images/Z-axis_sides-detail_1.png "Detail view 1 of the front Z axis assembly")
 ![Z-axis_sides-detail_2](images/Z-axis_sides-detail_2.png "Detail view 2 of the front Z axis assembly")
 ![Z-axis_sides-detail_3](images/Z-axis_sides-detail_3.png "Detail view 3 of the front Z axis assembly")
+
+And a close-up photo of the assembly:
+
+![assembly_closeup](images/assembly_closeup.jpeg "Close-up of the assembly")
