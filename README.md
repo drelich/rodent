@@ -1,7 +1,7 @@
 # rodent (Rod Trident)
 ## Voron Trident with Z rods.
 
-I decided to build a [Voron Trident](https://github.com/VoronDesign/Voron-Trident/) with the scrap materials I have at home. The idea was to spent zero cash (ideally) or as little as possible on this build. I do have the Voron 0.2 already but with its 100x100 build plate, it is not much of a use if I wanted to print cool models to display in my flat. Still, this tiny fella will do me fine for printing most of the parts (the big ones will have to wait until this project is somewhat more complete).
+I decided to build a [Voron Trident](https://github.com/VoronDesign/Voron-Trident/) with the scrap materials I have at home. The idea was to spend zero cash (ideally) or as little as possible on this build. I do have the Voron 0.2 already but with its 100x100 build plate, it is not much of a use if I wanted to print cool models to display in my flat. Still, this tiny fella will do me fine for printing most of the parts (the big ones will have to wait until this project is somewhat more complete).
 
 This printer will be my test-bed for something I am thinking of doing: a tool changer. Yay!
 
