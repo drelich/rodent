@@ -22,7 +22,7 @@ The print volume (roughly):
 - Y: 300 mm  
 - Z: 260 mm (possibly 280 on the Z axis, not sure how it plays out yet)
 
-using 300 mm smooth rods (10 mm diameter), LM10UU bearings. For the Y axis, I am using old MGN12 linear rails @ 350mm length. The extra travel will be used for tool head swaps and nozzle cleaning. The X axis is handled by an old MGN12 linear rail, that's about 350 mm long.
+using 350 mm smooth rods (10 mm diameter), LM10UU bearings. For the Y axis, I am using old MGN12 linear rails @ 350mm length. The extra travel will be used for tool head swaps and nozzle cleaning. The X axis is handled by an old MGN12 linear rail, that's about 350 mm long.
 
 Screenshots from my Fusion 360 files:
 1. Z-axis rear (simple enough, I did have to keep in mind the 2020 profile offset caused by the A/B motor mounts)
