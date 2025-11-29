@@ -8,7 +8,7 @@ This printer will be my test-bed for something I am thinking of doing: a tool ch
 ### Some notes
 ~~For now, I am not anchoring the top ends of the Z-axis stepper motor's lead screws. The thinking is that the rods and stiff bed frame construction should provide enough rigidity to prevent the bed from moving along the vertical axis. Hope this will do. If not, gonna get my thinking hat on and design suitable top latches that won't obstruct the toolhead's pathways.~~
 
-Stability of the Z axis assembly is ensured by installing z axis anchors with f688 ball bearings to each of the front stepper lead screws tops to prevent wobbling.
+Stability of the Z axis assembly is ensured by installing z axis anchors with f688 ball bearings to each of the front stepper lead screws tops to prevent wobbling. Ideally, this anchor should be present on the back Z axis lead screw as well but that's a bit of a pickle to figure out so hoping the front anchors will do (first tests suggest they are working well).
 
 Printer measurements:
 - width: 470 mm
