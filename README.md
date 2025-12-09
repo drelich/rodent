@@ -6,9 +6,7 @@ I decided to build a [Voron Trident](https://github.com/VoronDesign/Voron-Triden
 This printer will be my test-bed for something I am thinking of doing: a tool changer. Yay!
 
 ### Some notes
-~~For now, I am not anchoring the top ends of the Z-axis stepper motor's lead screws. The thinking is that the rods and stiff bed frame construction should provide enough rigidity to prevent the bed from moving along the vertical axis. Hope this will do. If not, gonna get my thinking hat on and design suitable top latches that won't obstruct the toolhead's pathways.~~
-
-Stability of the Z axis assembly is ensured by installing z axis anchors with f688 ball bearings to each of the front stepper lead screws tops to prevent wobbling. Ideally, this anchor should be present on the back Z axis lead screw as well but that's a bit of a pickle to figure out so hoping the front anchors will do (first tests suggest they are working well).
+To prevent the bed assembly from wobbling/rotating, I've opted for rigid mounts on the front left and right bed Z carriages. The rear Z axis is left intact/original. 
 
 Printer measurements:
 - width: 470 mm
@@ -20,7 +18,7 @@ For now, the printer is not enclosed but it's definitely in the stars.
 The print volume (roughly):
 - X: 300 mm
 - Y: 300 mm  
-- Z: 260 mm (possibly 280 on the Z axis, not sure how it plays out yet)
+- Z: 250 mm
 
 using 350 mm smooth rods (10 mm diameter), LM10UU bearings. For the Y axis, I am using old MGN12 linear rails @ 350mm length. The extra travel will be used for tool head swaps and nozzle cleaning. The X axis is handled by an old MGN12 linear rail, that's about 350 mm long.
 
